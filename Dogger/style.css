@@ -13,13 +13,14 @@ header .menu {
   align-items: center;
   padding: 10px 0;
   height: 70px;
-  background-color: #212529;
+  background-color: white;
   position: fixed;
   right: 0;
   left: 0;
   z-index: 1;
 }
 header .menu .textbox h5 {
+  color: black;
   margin-left: 40px;
   cursor: pointer;
   font-size: 38px;
@@ -39,6 +40,7 @@ header .menu nav {
   margin-right: 40px;
 }
 header .menu nav a {
+  color: black;
   font-size: 20px;
   margin: 0 15px;
   cursor: pointer;
